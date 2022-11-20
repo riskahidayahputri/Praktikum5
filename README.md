@@ -23,10 +23,6 @@ Berikut ini adalah Flowchart program yang akan kita buat :
 
 Requirement
 
-Pip install pip
-Cara install pip cara install pip
-Package Tabulate
-
 1. Pertama kita install Package Tabulate dengan cara buka terminal lalu copas pip install tabulate sebagai berikut :
 
 
